@@ -13,7 +13,7 @@ Output all the integers separated in the array from left to right that are not s
 those on its right side.
 Constraints
 1 <= n <= 1000000
-0 <= arr[i] <= 1000
+0 <= arr[i] <= 10000
 
 
 

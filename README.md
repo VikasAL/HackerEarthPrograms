@@ -82,3 +82,52 @@ Insert 3. It becomes right child of 2.
 Insert 4. It becomes right child of 3.
 Final height of tree = 3.
 
+# Frustrated coders
+There are N frustrated coders standing in a circle with a gun in their hands. Each coder
+has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
+him. One more thing, all the guns have only 1 bullet. This roulette can take place in
+any random order. Fortunately, you have the time stone (haaan wo harre wala) and
+you can see all possible outcomes of this scenario. Find the outcome where the total
+sum of the remaining coder's skill is minimum. Print this sum.
+Input Format
+The first line contains N the no. of coders
+The next line contains N elements where the ith element is theS[ i ] of ith coder.
+Output Format
+Print a single line containing the minimum sum.
+
+Constraints
+1<= N <= 1000000
+1<=S[ i ]<=1000
+sample input
+6
+1 7 2 2 4 4
+
+sample output
+11
+
+# Pink Floyd and Happiness
+
+Pink is sad because of some reasons, he wants to cheer up by listening to some songs
+from his favorite band, Pink Floyd.
+There are N records and Pink will be happy if he listens to them in the ascending
+order, i.e., first the song No. 1, then No.2 and so on (He has to listen to all the N songs
+to become Happy).
+Pink is delivered his records in some given order, he can either add the record to the
+Playlist in the delivered order or put some on another table. After being put on the
+table only the topmost record can be added to the playlist at any time.
+Print whether Pink will be sad or happy after the delivery of the records.
+Input Format
+N - Number of records followed by
+N numbers- order of records.
+Output Format
+Print "Happy" if the playlist has songs from 1 to N in order else "Sad".
+
+Constraints
+1<=N<=10^5
+The array consists of 1-N distinct numbers.
+
+Sample input
+5
+1 2 4 3 5 
+Sampe output
+Happy

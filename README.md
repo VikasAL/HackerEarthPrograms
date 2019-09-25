@@ -81,3 +81,4 @@ Insert 1. It becomes left child of 2.
 Insert 3. It becomes right child of 2.
 Insert 4. It becomes right child of 3.
 Final height of tree = 3.
+

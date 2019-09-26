@@ -43,6 +43,13 @@ Constraints
 1 <= n <= 1000000
 0 <= arr[i] <= 10000
 
+SAMPLE INPUT
+6
+16 17 4 3 5 2
+
+SAMPLE OUTPUT
+17 5 2
+
 # Monk watching Fight
 
 Once Monk was watching a fight between an array and a tree, of being better. Tree got frustrated and converted that array into a Binary Search Tree by inserting the elements as nodes in BST, processing elements in the given order in the array. Now Monk wants to know the height of the created Binary Search Tree.

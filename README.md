@@ -25,7 +25,7 @@ SAMPLE OUTPUT
 3
 0
 
-========================================================================================================================================
+=====================================================================================
 
 # Hamiltanion and Lagrangian
 
@@ -51,6 +51,8 @@ SAMPLE INPUT
 
 SAMPLE OUTPUT
 17 5 2
+
+=====================================================================================
 
 # Monk watching Fight
 
@@ -91,6 +93,8 @@ Insert 3. It becomes right child of 2.
 Insert 4. It becomes right child of 3.
 Final height of tree = 3.
 
+=====================================================================================
+
 # Frustrated coders
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder
 has a skill value S[ i ] and he can only kill those coders that have strictly less skill than
@@ -113,6 +117,8 @@ sample input
 
 sample output
 11
+
+=====================================================================================
 
 # Pink Floyd and Happiness
 
@@ -140,6 +146,8 @@ Sample input
 1 2 4 3 5 
 Sampe output
 Happy
+
+=====================================================================================
 
 # Yatin plays PUBG
 Yatin is playing PUBG and he has reached a place with a large staircase in front of him.
@@ -183,6 +191,8 @@ SAMPLE INPUT
 SAMPLE OUTPUT
 4
 
+=====================================================================================
+
 # Hacker and traffic lights    
  Zolo is stuck in a traffic due to dysfunctional traffic light. Zolo is a professional hacker and he can get into the system and change the state of the light. His planet has different types of traffic lights such that there are N bulbs on the traffic board and only when all of them are green(G) the cars can pass. there are 2 other states also which the bulb can show; i.e. Red(R) & Yellow(Y). Note that the lights are designed such that they follow a state change cyclic pattern as follows: 
  
@@ -202,6 +212,8 @@ R Y G Y
 
 SAMPLE OUTPUT
 5
+
+=====================================================================================
 
 #  Remove Friends   
 After getting her PhD, Christie has become a celebrity at her university, and her Facebook profile is full of friend requests. Being the nice girl, she is, Christie has accepted all the requests. 
@@ -239,6 +251,8 @@ SAMPLE OUTPUT
 19 12 17
 77 18
 
+=====================================================================================
+
 #  Largest cycle in a tree   
 You are given a tree of N nodes and N-1 edges. Now you need to select two nodes a and b in the tree such that the cycle that will be formed after adding an edge between the two nodes a and b, its length should be maximum. If there are more than one possible answer, you can output any of them. 
  
@@ -260,6 +274,8 @@ SAMPLE INPUT
 
 SAMPLE OUTPUT
 4 6
+
+=====================================================================================
 
 #  Haunted  
  The king of ghosts is really disappointed when he sees that all the human beings on Planet Earth have stopped fearing the ghost race. He knows the reason for this. The existing ghost race has become really lazy and has stopped visiting Planet Earth to scare the human race. Hence, he decides to encourage the entire ghost race into scaring the humans by holding a competition. The king, however, never visits Planet Earth. 
